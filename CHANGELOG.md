@@ -6,6 +6,9 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+## [1.0.0] - 2019-02-18
+- Corrected name of gem
+
 ## [0.1.1] - 2018-06-12
 
 ### Changed
