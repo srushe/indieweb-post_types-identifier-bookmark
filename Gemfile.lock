@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    indieweb-post_types-bookmark (0.1.1)
+    indieweb-post_types-identifier-bookmark (1.0.0)
       indieweb-post_types
 
 GEM
@@ -45,11 +45,11 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  bundler (~> 1.16)
-  indieweb-post_types-bookmark!
+  bundler (~> 2.0)
+  indieweb-post_types-identifier-bookmark!
   rake (~> 12.3)
   rspec (~> 3.0)
   rubocop (~> 0.57.2)
 
 BUNDLED WITH
-   1.16.2
+   2.0.1
