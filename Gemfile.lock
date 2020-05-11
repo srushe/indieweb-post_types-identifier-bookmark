@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    indieweb-post_types-identifier-bookmark (1.0.0)
+    indieweb-post_types-identifier-bookmark (1.1.0)
       indieweb-post_types
 
 GEM
