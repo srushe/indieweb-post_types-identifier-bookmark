@@ -6,7 +6,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
-## [1.0.0] - 2019-02-18
+## [1.1.0] - 2020-05-11
 
 ### Security
 - Update rake requirement from ~> 12.3 to ~> 13.0
