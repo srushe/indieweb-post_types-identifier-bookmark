@@ -10,13 +10,13 @@ Gem::Specification.new do |spec|
 
   spec.summary       = 'Identify IndieWeb Microformats 2 posts as bookmarks.'
   spec.description   = 'IndieWeb Bookmark Post Type Discovery for Microformats 2 JSON.'
-  spec.homepage      = 'https://github.com/srushe/indieweb-post_types-identifier-bookmark'
+  spec.homepage      = 'https://code.deeden.co.uk/indieweb-post_types-identifier-bookmark'
   spec.license       = 'MIT'
 
   spec.metadata = {
-    'bug_tracker_uri' => 'https://github.com/srushe/indieweb-post_types-identifier-bookmark/issues',
-    'changelog_uri'   => 'https://github.com/srushe/indieweb-post_types-identifier-bookmark/blob/master/CHANGELOG.md',
-    'homepage_uri'    => 'https://github.com/srushe/indieweb-post_types-identifier-bookmark/'
+    'bug_tracker_uri' => 'https://code.deeden.co.uk/indieweb-post_types-identifier-bookmark/issues',
+    'changelog_uri'   => 'https://code.deeden.co.uk/indieweb-post_types-identifier-bookmark/changelog',
+    'homepage_uri'    => 'https://code.deeden.co.uk/indieweb-post_types-identifier-bookmark/'
   }
 
   spec.files = `git ls-files -z`.split("\x0").reject do |f|

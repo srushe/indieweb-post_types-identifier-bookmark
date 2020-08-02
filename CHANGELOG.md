@@ -6,6 +6,11 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+## [1.1.1] - 2020-08-03
+
+### Changed
+- Update gemspec links to point to https://code.deeden.co.uk/
+
 ## [1.1.0] - 2020-05-11
 
 ### Security
